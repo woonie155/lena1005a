@@ -1,10 +1,9 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena1005a&theme=dracula&layout=compact&langs_count=10"/>-->
   
   
- <div align="center">   <h3>🟢백엔드 개발자 '이재운'입니다.</h3></div>
- 
- 
-<hr>
+ <div align="center">   <h1>🟢백엔드 개발자 '이재운'입니다.</h1></div>
+ <hr>
+
 
   <h4 >⚒ Main Tech Stack ⚒</h4>
     <ul>
@@ -25,7 +24,7 @@
       <li>JAVA, C, C++, Python</li>
     </ul>
   <hr>
-  
+
 <h4>* 학습/개발에 사용하는 개인 노션입니다 : <a href="https://www.notion.so/SOLID-0c4abbafc4574170ab13c7bcd4e8f3ce">Notion 접속</a>
 <h4>* Contact  : woonie155@gmail.com</h4>
 
