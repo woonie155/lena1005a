@@ -25,8 +25,7 @@
     </ul>
   <hr>
 
-<h4>* 학습/개발에 사용하는 개인 노션입니다 :<br> <a href="https://www.notion.so/invite/72663c0b1911f5e8fc5f67caf516b8cdf816c3b9"> 스프링</a><br>
-  <a href="https://www.notion.so/invite/67f3574b28679961ca6a5f808fa71da784a3c0cb"> 시큐리티</a>
+<h4>* 학습/개발에 사용하는 개인 노션입니다 : 메일로 문의
 <h4>* Contact  : woonie155@gmail.com</h4>
 
 <!--   <a href="https://github.com/lena1005a"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flena1005a&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
