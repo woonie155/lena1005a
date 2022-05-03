@@ -25,7 +25,7 @@
     </ul>
   <hr>
 
-<h4>* 학습/개발에 사용하는 개인 노션입니다 :<br> <a href="https://triangular-oil-e2b.notion.site/API-4d6c4eb338864cc08fc8e8d7eb32808c"> 스프링</a><br>
+<h4>* 학습/개발에 사용하는 개인 노션입니다 :<br> <a href="https://www.notion.so/invite/72663c0b1911f5e8fc5f67caf516b8cdf816c3b9"> 스프링</a><br>
   <a href="https://even-cone-9af.notion.site/811e20504a764eaebfc5f653eb6f518c"> 시큐리티</a>
 <h4>* Contact  : woonie155@gmail.com</h4>
 
